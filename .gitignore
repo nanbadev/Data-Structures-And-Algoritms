@@ -1,8 +1,14 @@
 # Created by https://www.toptal.com/developers/gitignore/api/c++,node,java,python,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=c++,node,java,python,visualstudiocode
 
+# Ignore all
+*
+
 # Unignore all with extensions
 !*.*
+
+# Unignore all dirs
+!*/
 
 ### C++ ###
 # Prerequisites
